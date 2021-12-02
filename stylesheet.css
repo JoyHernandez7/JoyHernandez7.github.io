@@ -9,7 +9,7 @@ img{
 
 li{
   display: block;
-  text-align: right;
+  text-align: left;
   padding: 14px 16px;
   background-color: pink;
 }
@@ -28,6 +28,7 @@ ul {
 
 h1{
 	text-align: center;
+	text-color: black;
 	font-family: montserrat;
 	color: black;
 }
