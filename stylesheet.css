@@ -9,9 +9,11 @@ img{
 
 li{
   display: block;
-  text-align: left;
+  float: left;
+  text-align: center;
   padding: 14px 16px;
   background-color: pink;
+  text-decoration: none;
 }
 li a:hover {
   background-color: orange;
