@@ -19,14 +19,17 @@ li a:hover {
   background-color: orange;
 }
 
-ul {
+.menu{
+  background-color: pink;
+  overflow: hidden;
+}
+.menu a{
   float: left;
   text-align: center;
-  list-style-type: none;
-  margin: 0;
   padding: 14px 16px;
-  overflow: hidden;
+  text-decoration: none;
   font-family: sniglet;
+  color: black;
 }
 
 h1{
@@ -35,6 +38,7 @@ h1{
 	font-family: sniglet;
 	color: black;
 }
+
 
 
 h3{
