@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&family=Sniglet:wght@400;800&display=swap');
 
 img{
+	position: absolute;
 	margin-left: 700px;
 	margin-top: 50px;
 	border-style: double;
