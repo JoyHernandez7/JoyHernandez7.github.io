@@ -38,7 +38,7 @@ body{
 
 h1{
 	text-align: center;
-	text-color: white;
+	color: white;
 	font-family: sniglet;
 
 	font-size: 400px;
@@ -50,7 +50,7 @@ h3{
 	text-align: center;
 	font-family: sniglet; weight; 400;
 	font-size: 200px;
-	text-color: white;
+	color: white;
 }
 
 a{
