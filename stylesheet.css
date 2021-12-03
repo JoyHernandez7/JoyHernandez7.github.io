@@ -40,7 +40,8 @@ h1{
 	text-align: center;
 	text-color: black;
 	font-family: sniglet;
-	color: black;
+	color: white;
+	font-size: 400px;
 }
 
 
@@ -48,6 +49,8 @@ h1{
 h3{
 	text-align: center;
 	font-family: sniglet; weight; 400;
+	font-size: 200px;
+	text-color: white;
 }
 
 a{
